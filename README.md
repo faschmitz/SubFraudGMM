@@ -1,6 +1,6 @@
 # SubFraudGMM
 
-Unsupervised fraud detection in Brazilian public procurement using Gaussian Mixture Models and feature-subset ensembling.
+A semi-supervised fraud detection approach in Brazilian public procurement using Gaussian Mixture Models and feature-subset ensembling.
 
 ---
 
